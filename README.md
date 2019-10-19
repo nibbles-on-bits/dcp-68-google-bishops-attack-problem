@@ -13,10 +13,10 @@ For example, given M = 5 and the list of bishops:
   (4, 0)
   
 The board would look like this:
-  [b 0 0 0 0]
-  [0 0 b 0 0]
-  [0 0 b 0 0]
-  [0 0 0 0 0]
-  [b 0 0 0 0]
+  [b 0 0 0 0]  
+  [0 0 b 0 0]  
+  [0 0 b 0 0]  
+  [0 0 0 0 0]  
+  [b 0 0 0 0]  
   
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
