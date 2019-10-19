@@ -12,7 +12,7 @@ For example, given M = 5 and the list of bishops:
   (2, 2)
   (4, 0)
   
-The board would look like this:
+The board would look like this:  
 [b 0 0 0 0]  
 [0 0 b 0 0]  
 [0 0 b 0 0]  
