@@ -1,0 +1,11 @@
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.deps.json
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.runtimeconfig.json
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.runtimeconfig.dev.json
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.dll
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/bin/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.pdb
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/obj/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.csprojAssemblyReference.cache
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/obj/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.AssemblyInfoInputs.cache
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/obj/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.AssemblyInfo.cs
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/obj/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.dll
+/home/cash/dev/dotnet/dcp-68-google-bishops-attack-problem/obj/Debug/netcoreapp3.0/dcp-68-google-bishops-attack-problem.pdb

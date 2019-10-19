@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dcp-68-google-bishops-attack-problem/1.0.0": {
+        "runtime": {
+          "dcp-68-google-bishops-attack-problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dcp-68-google-bishops-attack-problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
